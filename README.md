@@ -3,7 +3,7 @@
   <p><b>Full-Stack MERN & AI/ML Engineer · RAG Pipelines · System Architect</b></p>
 
   <p>
-    <a href="https://linkedin.com/in/yash-ranjan"><img src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/yash-ranjan-242824281/"><img src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="https://github.com/YashRanjan292006"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   </p>
 </div>
